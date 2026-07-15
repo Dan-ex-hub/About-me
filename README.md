@@ -1,41 +1,32 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      BANNER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%8E%AE+SELECT+YOUR+CLASS...;%E2%9A%A1+THE+MERN+STACK+WARRIOR+HAS+ENTERED+THE+ARENA;%F0%9F%A4%96+AI+ENGINEER+%7C+FULL+STACK+DEVELOPER" alt="Typing SVG" />
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=⚔️%20DANIEL%20⚔️&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Code%20Mercenary&descAlignY=58&descSize=20)](https://github.com/Dan-ex-hub)
+**⚔️ Daniel Dsouza — Full-Stack Mercenary / AI Engineer**
+*Shipping ML systems, full-stack apps, and open-source quests from Pune, India.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🎮+SELECT+YOUR+CLASS...;⚡+THE+MERN+STACK+WARRIOR+HAS+ENTERED+THE+ARENA;🤖+AI+ENGINEER+%7C+FULL+STACK+DEVELOPER)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-d-souza-0a521a366)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danrose200@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://portfolio-nine-orcin-za9hswpw3s.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dan-ex-hub)
+
+🔍 **Open to internships, freelance quests & interesting collaborations**
 
 </div>
 
 ---
 
-## 🧙 CHARACTER SHEET — DAN-EX-HUB
+## 🧙 Character Sheet
 
 ```js
-class DanielKadam {
+class DanielDsouza {
   constructor() {
-    this.name       = "Daniel";
     this.class      = "🗡️  Full-Stack Mercenary  /  🤖 AI Engineer";
     this.level      = 12;                   // ~3 years of grinding
     this.guild      = "Freelance / Open Source";
     this.location   = "📍 Pune, Maharashtra, India";
-    this.xpGaining  = ["Internship Quests", "OSS Contributions"];
     this.activeOp   = "🧠 ML Trading System — CME Futures (GC, ES, NQ, CL)";
     this.philosophy = "Ship first. Optimize later. Sleep rarely. 💀";
-  }
-
-  getStats() {
-    return {
-      STR: "⚙️  Systems Design    ████████░░  80%",
-      INT: "🧠  AI / ML           ████████░░  82%",
-      DEX: "🖥️  Frontend Speed    ███████░░░  75%",
-      WIS: "🔗  Backend Arch      ████████░░  80%",
-      CHA: "🎯  Problem Solving   █████████░  90%",
-      LCK: "🚀  Shipping Projects ██████████  99%",
-    };
   }
 
   isAvailableForInternship() {
@@ -46,11 +37,7 @@ class DanielKadam {
 
 ---
 
-<div align="center">
-
-## ⚔️ SKILL TREE — TECH ARSENAL
-
-</div>
+## ⚔️ Skill Tree — Tech Arsenal
 
 ### 🌐 Frontend Realm
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -79,61 +66,39 @@ class DanielKadam {
 
 ### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## 📜 QUEST LOG
+## 📜 Quest Log
 
 > *"Every great project begins with a single commit."*
 
-<div align="center">
-
-### 🟢 ACTIVE QUEST — LEGENDARY DIFFICULTY
-
-</div>
+### 🟢 Active Quest — Legendary Difficulty
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  QUEST: ML TRADING SYSTEM — CME FUTURES                     ║
-║  Instruments : GC · ES · NQ · CL                           ║
-║  Data Source : Databento Tick Feeds (Real Order-Flow)       ║
-║  Core Tech   : Python · ICT Concepts · ML Pipeline          ║
-║  Status      : 🔥 IN PROGRESS — Grinding feature_engineer   ║
+║  QUEST: ML TRADING SYSTEM — CME FUTURES                      ║
+║  Instruments : GC · ES · NQ · CL                             ║
+║  Data Source : Databento Tick Feeds (Real Order-Flow)        ║
+║  Core Tech   : Python · ICT Concepts · ML Pipeline            ║
+║  Status      : 🔥 IN PROGRESS — Grinding feature_engineer     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
----
-
-### ✅ COMPLETED QUESTS
+### ✅ Completed Quests
 
 | 🏆 Quest | ⚡ Power | 📖 Lore |
 |---|---|---|
-| [💤 **Sleep Ease**](https://github.com/Dan-ex-hub) | `AI · Node.js · React` | AI-powered sleep assistant that tracks, analyzes, and improves sleep quality |
-| [📚 **StudyBot**](https://github.com/Dan-ex-hub) | `NLP · MERN · LLM` | Intelligent study companion — AI tutor in your browser |
-| [🚗 **GRID**](https://github.com/Dan-ex-hub) | `AI · Maps · Group Collab` | AI Urban Mobility Intelligence — smart city transport optimization |
+| [💤 **Sleep Eaze**](https://sleep-ease-three.vercel.app/) | `Next.js · E-commerce` | Natural sleep wellness storefront — lavender candles, herbal teas & aromatherapy oils backed by science |
+| [🌍 **ImpactGlobe**](https://world-imapct-monitor.vercel.app/) | `3D Globe · AI · Live Data` | Real-time geopolitical risk monitor — 3D interactive globe fusing live forex data with earthquake, wildfire & AQI overlays |
+| [🚗 **GRID**](https://gridnyc-v2.netlify.app/) | `AI · Maps · Group Collab` | AI urban mobility intelligence for smart city transport optimization |
+| [🛒 **Sahaayak**](https://sahaayak-rose.vercel.app/) | `Marketplace · AI Insights` | Wholesale marketplace connecting India's street food vendors with verified local suppliers — live price comparison, one-cart ordering, dawn delivery |
 
 ---
 
-<div align="center">
-
-## 📊 BATTLE RECORDS — GitHub Analytics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-ex-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D9FF&text_color=FFFFFF&title_color=00D9FF)](https://github.com/Dan-ex-hub)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-ex-hub&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF)](https://github.com/Dan-ex-hub)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dan-ex-hub&theme=synthwave&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://github.com/Dan-ex-hub)
-
-</div>
-
----
-
-<div align="center">
-
-## 🗺️ MISSION CONTROL DASHBOARD
+## 🗺️ Mission Control Dashboard
 
 | ⚔️ Current Mission | 🔮 Status | ⚡ Progress |
 |---|---|---|
@@ -142,35 +107,52 @@ class DanielKadam {
 | 🌐 Portfolio Website | 🔵 Planning | `████░░░░░░` 40% |
 | 📖 Open Source Contributions | 🟢 Ongoing | `██████████` 100% |
 
-</div>
-
 ---
 
-## 🎯 PLAYER STATS
+## 🎯 Player Stats
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║                 ⚔️  ATTRIBUTE BOARD ⚔️                    ║
+║                 ⚔️  ATTRIBUTE BOARD ⚔️                     ║
 ╠═══════════════════════════════════════════════════════════╣
-║  ⚙️  Systems Design     ████████░░  [80 / 100]            ║
-║  🧠  AI / ML            ████████░░  [82 / 100]            ║
-║  🖥️  Frontend Dev       ███████░░░  [75 / 100]            ║
-║  🔗  Backend Arch       ████████░░  [80 / 100]            ║
-║  🎯  Problem Solving    █████████░  [90 / 100]            ║
-║  🚀  Shipping Projects  ██████████  [99 / 100]            ║
+║  ⚙️  Systems Design     ████████░░  [80 / 100]             ║
+║  🧠  AI / ML            ████████░░  [82 / 100]             ║
+║  🖥️  Frontend Dev       ███████░░░  [75 / 100]             ║
+║  🔗  Backend Arch       ████████░░  [80 / 100]             ║
+║  🎯  Problem Solving    █████████░  [90 / 100]             ║
+║  🚀  Shipping Projects  ██████████  [99 / 100]             ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
+## 📊 Battle Records — GitHub Analytics
+
 <div align="center">
 
-## 🌐 CONNECT — SEND A PARTY INVITE
+<img src="https://streak-stats.demolab.com/?user=Dan-ex-hub&theme=synthwave&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dan-ex-hub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dan-ex-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D9FF&text_color=FFFFFF&title_color=00D9FF" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-ex-hub&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dan-ex-hub&theme=react-dark&hide_border=true&area=true&custom_title=Daniel%27s%20Contribution%20Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-trophies.vercel.app/?username=Dan-ex-hub&theme=radical&no-frame=true&margin-w=4&column=5&titles=Commits,MultiLanguage,Repositories,Stars,Followers)
+
+</div>
 
 ---
 
@@ -186,10 +168,12 @@ class DanielKadam {
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dan-ex-hub&label=Adventurers+Visited&color=00d9ff&style=for-the-badge)
+<div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)](https://github.com/Dan-ex-hub)
+*💬 Always grinding, always shipping. Let's build something worth solving.*
 
-> 🎮 *"The best code is the code that ships."*  **— Daniel, probably.**
+[![Profile Views](https://komarev.com/ghpvc/?username=Dan-ex-hub&label=Adventurers%20Visited&color=00d9ff&style=for-the-badge)](https://github.com/Dan-ex-hub)
+
+> 🎮 *"The best code is the code that ships."* **— Daniel, probably.**
 
 </div>
