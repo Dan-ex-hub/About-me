@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%8E%AE+SELECT+YOUR+CLASS...;%E2%9A%A1+THE+MERN+STACK+WARRIOR+HAS+ENTERED+THE+ARENA;%F0%9F%A4%96+AI+ENGINEER+%7C+FULL+STACK+DEVELOPER" alt="Typing SVG" />
 
 **⚔️ Daniel Dsouza — Full-Stack Mercenary / AI Engineer**
-*Shipping ML systems, full-stack apps, and open-source quests from Pune, India.*
+*Shipping ML systems, full-stack apps, and open-source quests from Mumbai, India.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-d-souza-0a521a366)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danrose200@gmail.com)
@@ -21,11 +21,11 @@
 ```js
 class DanielDsouza {
   constructor() {
-    this.class      = "🗡️  Full-Stack Mercenary  /  🤖 AI Engineer";
+    this.class      = "🗡️  Full-Stack Mercenary  /  🤖 AI/ML Engineer";
     this.level      = 12;                   // ~3 years of grinding
-    this.guild      = "Freelance / Open Source";
-    this.location   = "📍 Pune, Maharashtra, India";
-    this.activeOp   = "🧠 ML Trading System — CME Futures (GC, ES, NQ, CL)";
+    this.guild      = "Intern @ FlyRank AI · Data Analyst Intern @ Excelerate";
+    this.location   = "📍 Mumbai, Maharashtra, India";
+    this.activeOp   = "🌍 World Impact Monitor — Live Geopolitical Risk Intelligence";
     this.philosophy = "Ship first. Optimize later. Sleep rarely. 💀";
   }
 
@@ -79,11 +79,11 @@ class DanielDsouza {
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  QUEST: ML TRADING SYSTEM — CME FUTURES                      ║
-║  Instruments : GC · ES · NQ · CL                             ║
-║  Data Source : Databento Tick Feeds (Real Order-Flow)        ║
-║  Core Tech   : Python · ICT Concepts · ML Pipeline            ║
-║  Status      : 🔥 IN PROGRESS — Grinding feature_engineer     ║
+║  QUEST: WORLD IMPACT MONITOR                                 ║
+║  Type        : Real-time Geopolitical Risk Intelligence      ║
+║  Core Tech   : 3D Globe · AI · Live Forex & Environmental Data║
+║  Repo        : Dan-ex-hub/world_imapct_monitor               ║
+║  Status      : 🔥 IN PROGRESS — Grinding data pipelines       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -92,9 +92,9 @@ class DanielDsouza {
 | 🏆 Quest | ⚡ Power | 📖 Lore |
 |---|---|---|
 | [💤 **Sleep Eaze**](https://sleep-ease-three.vercel.app/) | `Next.js · E-commerce` | Natural sleep wellness storefront — lavender candles, herbal teas & aromatherapy oils backed by science |
-| [🌍 **ImpactGlobe**](https://world-imapct-monitor.vercel.app/) | `3D Globe · AI · Live Data` | Real-time geopolitical risk monitor — 3D interactive globe fusing live forex data with earthquake, wildfire & AQI overlays |
 | [🚗 **GRID**](https://gridnyc-v2.netlify.app/) | `AI · Maps · Group Collab` | AI urban mobility intelligence for smart city transport optimization |
 | [🛒 **Sahaayak**](https://sahaayak-rose.vercel.app/) | `Marketplace · AI Insights` | Wholesale marketplace connecting India's street food vendors with verified local suppliers — live price comparison, one-cart ordering, dawn delivery |
+| 🧠 **ML Trading System (CME)** | `Python · ICT · ML Pipeline` | ML trading system for CME futures (GC, ES, NQ, CL) built on Databento real order-flow tick data |
 
 ---
 
