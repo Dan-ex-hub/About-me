@@ -134,9 +134,9 @@ class DanielDsouza {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dan-ex-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D9FF&text_color=FFFFFF&title_color=00D9FF" height="175"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Dan-ex-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D9FF&text_color=FFFFFF&title_color=00D9FF" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-ex-hub&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" height="175"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dan-ex-hub&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00D9FF" height="175"/>
 
 <br/><br/>
 
