@@ -102,9 +102,9 @@ class DanielDsouza {
 
 | ⚔️ Current Mission | 🔮 Status | ⚡ Progress |
 |---|---|---|
-| 🧠 ML Trading System (CME) | 🔥 Grinding | `████████░░` 80% |
+| 🌍 World Impact Monitor | 🔥 Grinding | `████████░░` 80% |
 | 💼 Internship Hunt | 🟡 Active | `██████░░░░` 65% |
-| 🌐 Portfolio Website | 🔵 Planning | `████░░░░░░` 40% |
+| 🌐 Portfolio Website | 🟢 Completed | `██████████` 100% |
 | 📖 Open Source Contributions | 🟢 Ongoing | `██████████` 100% |
 
 ---
@@ -130,7 +130,7 @@ class DanielDsouza {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Dan-ex-hub&theme=synthwave&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+<img src="https://streak-stats.demolab.com/?user=Dan-ex-hub&theme=synthwave&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&count_private=true" />
 
 <br/><br/>
 
