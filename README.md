@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%8E%AE+SELECT+YOUR+CLASS...;%E2%9A%A1+THE+MERN+STACK+WARRIOR+HAS+ENTERED+THE+ARENA;%F0%9F%A4%96+AI+ENGINEER+%7C+FULL+STACK+DEVELOPER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%8E%AE+SELECT+YOUR+CLASS...;%E2%9A%A1+MERN+STACK+WARRIOR+ENTERS+THE+ARENA;%F0%9F%A4%96+AI+ENGINEER+%7C+FULL+STACK+DEV" alt="Typing SVG" />
 
 **⚔️ Daniel Dsouza — Full-Stack Mercenary / AI Engineer**
 *Shipping ML systems, full-stack apps, and open-source quests from Mumbai, India.*
@@ -140,7 +140,15 @@ class DanielDsouza {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dan-ex-hub&theme=react-dark&hide_border=true&area=true&custom_title=Daniel%27s%20Contribution%20Graph" />
+**GitHub Contributions**
+
+<img src="https://ghchart.rshah.org/00D9FF/Dan-ex-hub" alt="Daniel's GitHub Contribution Heatmap" width="100%"/>
+
+<br/><br/>
+
+**LeetCode Contributions**
+
+<img src="https://leetcard.jacoblin.cool/leetcodemaster69?theme=dark&ext=heatmap" alt="Daniel's LeetCode Heatmap" width="100%"/>
 
 </div>
 
